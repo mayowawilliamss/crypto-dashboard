@@ -1,4 +1,5 @@
 # Crypto Market Health Dashboard
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mayowawilliamss-crypto-dashboard-app-ard09n.streamlit.app/)
 
 This project monitors the health of the top crypto assets using live market data.
 
