@@ -1,0 +1,2 @@
+snapshot_time,source,number_of_coins,total_market_cap_usd,total_volume_usd,average_24h_change_pct,median_24h_change_pct,coins_up_24h,coins_down_24h,risk_flag_count,top_gainer,top_loser
+2026-09-19 22:39:48.497798+00:00,fallback_synthetic,50,84954303133.0,12329680061.0,-0.7936,-1.835,19,31,6,Synthetic Coin 14,Synthetic Coin 17

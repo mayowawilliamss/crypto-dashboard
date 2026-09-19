@@ -1,0 +1,10 @@
+check,status,details
+row_count,PASS,50 rows returned
+required_columns,PASS,All required columns present
+no_duplicate_ids,PASS,0 duplicate ids
+numeric_values_present,PASS,0 missing numeric values
+price_positive,PASS,0 non-positive prices
+market_cap_positive,PASS,0 non-positive market caps
+timestamp_present,PASS,0 missing timestamps
+data_freshness,PASS,Newest record is 0.0 hours old
+extreme_24h_move_review,PASS,0 coins moved more than 50% in 24h
